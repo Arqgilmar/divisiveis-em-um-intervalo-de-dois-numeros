@@ -1,5 +1,5 @@
-# Intervalo numerico 🔴
-Este projeto diz os o intervalo numérico entre dois números digitados, pede dois números, mostra o resultado(os números inteiros entre os dois números digitados). No código foi utilizado a linguagem C. 
+# Divisíveis no intervalo de dois números 🔴
+Este projeto mostra os números divísiveis por 3 e 5 no intervalo entre eles, pede dois números, mostra o resultado(divísiveis no intervalo por 3 e 5). No código foi utilizado a linguagem C. 
 
 [<img height="400" src="img/intervalonumerico.gif">](https://github.com/Arqgilmar/Exibe-numeros/blob/main/img/intervalonumerico.gif) 
 
@@ -16,9 +16,9 @@ Este projeto diz os o intervalo numérico entre dois números digitados, pede do
 
 ## 💻 Reflexão
 
-- Estudo da linguagem C, um código bem simples que abrange variáveis e estrutura de repetição.
+- Estudo da linguagem C, um código bem simples que abrange variáveis, estrutura condicionais e estrutura de repetição.
 
-- Skills da linguagem: estrutura de repetição(While), printf, scanf e variável int.
+- Skills da linguagem: estrutura de repetição(While), estrutura condicionais(if) printf, scanf e variável int.
 
 <br>
 <br>
