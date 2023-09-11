@@ -1,9 +1,7 @@
 # Divisíveis no intervalo de dois números 🔴
 Este projeto mostra os números divísiveis por 3 e 5 no intervalo entre eles, pede dois números, mostra o resultado(divísiveis no intervalo por 3 e 5). No código foi utilizado a linguagem C. 
 
-[<img height="400" src="img/divisiveis.gif">](https://github.com/Arqgilmar/divisiveis-em-um-intervalo-de-dois-numeros
-/blob/main/img/divisiveis.gif) 
-
+[<img height="400" src="img/divisiveis.gif">](https://github.com/Arqgilmar/divisiveis-em-um-intervalo-de-dois-numeros/blob/main/img/divisiveis.gif)
 
 ## ⚡ Linguagem usada
 
